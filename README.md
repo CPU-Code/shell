@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-07-27 19:11:10
- * @LastEditTime: 2020-07-27 22:03:32
+ * @LastEditTime: 2020-07-28 09:25:34
  * @FilePath: \shell\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @Github: https://github.com/CPU-Code
@@ -38,3 +38,7 @@
 * [string__字符串操作](variable/string.sh)
 
 ---------------------
+
+## [preset](preset)
+
+* [preset_variables__预设变量](preset/preset_variables.sh)
