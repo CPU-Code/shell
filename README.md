@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-07-27 19:11:10
- * @LastEditTime: 2020-07-28 12:19:14
+ * @LastEditTime: 2020-07-28 13:46:14
  * @FilePath: \shell\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @Github: https://github.com/CPU-Code
@@ -51,5 +51,6 @@
 
 ## [test_file](test_file)
 
+* [file_status__文件状态](test_file/file_status.sh)
 
 
