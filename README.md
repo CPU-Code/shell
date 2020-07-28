@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-07-27 19:11:10
- * @LastEditTime: 2020-07-28 11:59:50
+ * @LastEditTime: 2020-07-28 12:15:26
  * @FilePath: \shell\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @Github: https://github.com/CPU-Code
@@ -45,3 +45,6 @@
 * [check_execution__检查执行结果](preset/check_execution.sh)
 * [quotation_marks__引号操作](preset/quotation_marks.sh)
 * [paraphrase__转义字符](preset/paraphrase.sh)
+* [command_sequence__命令序列](preset/command_sequence.sh)
+
+
