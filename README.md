@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-07-27 19:11:10
- * @LastEditTime: 2020-07-28 14:09:16
+ * @LastEditTime: 2020-07-28 14:46:43
  * @FilePath: \shell\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @Github: https://github.com/CPU-Code
@@ -59,4 +59,9 @@
 
 * [compare_strings__比较字符串](test_string/compare_strings.sh)
 
+---------
+
+## [test_num](test_num)
+
+* [compare_num__比较数](test_num/compare_num.sh)
 
