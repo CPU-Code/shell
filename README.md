@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-07-27 19:11:10
- * @LastEditTime: 2020-07-28 14:46:43
+ * @LastEditTime: 2020-07-28 15:43:13
  * @FilePath: \shell\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @Github: https://github.com/CPU-Code
@@ -65,3 +65,9 @@
 
 * [compare_num__比较数](test_num/compare_num.sh)
 
+---------
+
+## [if](if)
+
+* [if_then__判断](test_num/if_then.sh)
+* [if_else__判断文件是否存在](test_num/if_else.sh)
