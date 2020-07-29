@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-07-27 19:11:10
- * @LastEditTime: 2020-07-29 15:38:56
+ * @LastEditTime: 2020-07-29 16:01:06
  * @FilePath: \shell\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @Github: https://github.com/CPU-Code
@@ -81,11 +81,11 @@
 
 ---------
 
-## []()
+## [for](for)
 
-* [](/.sh)
-* [](/.sh)
-
+* [file__文件属性](for/file.sh)
+* [sum__循环求和](for/sum.sh)
+* [sum2__循环求和](for/sum2.sh)
 
 ---------
 
