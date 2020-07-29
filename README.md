@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-07-27 19:11:10
- * @LastEditTime: 2020-07-29 16:05:09
+ * @LastEditTime: 2020-07-29 18:47:31
  * @FilePath: \shell\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @Github: https://github.com/CPU-Code
@@ -18,13 +18,12 @@
 ## 目录
 
 
-
-
 -------------------
 
 ## [first](first)
 
-* [echo__输出信息](first/echo.sh)
+-   [ ] [echo__输出信息](first/echo.sh)
+
 * [echo_parameter__输出参数](first/echo_parameter.sh)
 
 -----------------
