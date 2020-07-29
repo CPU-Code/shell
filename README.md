@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-07-27 19:11:10
- * @LastEditTime: 2020-07-28 15:43:13
+ * @LastEditTime: 2020-07-29 15:38:56
  * @FilePath: \shell\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @Github: https://github.com/CPU-Code
@@ -69,5 +69,35 @@
 
 ## [if](if)
 
-* [if_then__判断](test_num/if_then.sh)
-* [if_else__判断文件是否存在](test_num/if_else.sh)
+* [if_then__判断](if/if_then.sh)
+* [if_else__判断文件是否存在](if/if_else.sh)
+
+---------
+
+## [case](case)
+
+* [date__选择日期](case/date.sh)
+* [choice__选择对错](case/choice.sh)
+
+---------
+
+## []()
+
+* [](/.sh)
+* [](/.sh)
+
+
+---------
+
+## []()
+
+* [](/.sh)
+* [](/.sh)
+
+
+---------
+
+## []()
+
+* [](/.sh)
+* [](/.sh)
