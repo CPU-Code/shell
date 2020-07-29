@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-07-27 19:11:10
- * @LastEditTime: 2020-07-29 18:47:31
+ * @LastEditTime: 2020-07-29 19:00:25
  * @FilePath: \shell\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @Github: https://github.com/CPU-Code
@@ -22,86 +22,86 @@
 
 ## [first](first)
 
--   [ ] [echo__输出信息](first/echo.sh)
 
-* [echo_parameter__输出参数](first/echo_parameter.sh)
+-   [x] [echo__输出信息](first/echo.sh)
+-   [x] [echo_parameter__输出参数](first/echo_parameter.sh)
 
 -----------------
 
 ## [variable](variable)
 
-* [num__变量](variable/num.sh)
-* [readonly__只读变量](variable/readonly.sh)
-* [export__环境变量](variable/export.sh)
-* [variable_exists__变量是否存在](variable/variable_exists.sh)
-* [string__字符串操作](variable/string.sh)
+-   [x] [num__变量](variable/num.sh)
+-   [x] [readonly__只读变量](variable/readonly.sh)
+-   [ ] [export__环境变量](variable/export.sh)
+-   [ ] [variable_exists__变量是否存在](variable/variable_exists.sh)
+-   [x] [string__字符串操作](variable/string.sh)
 
 ---------------------
 
 ## [preset](preset)
 
-* [preset_variables__预设变量](preset/preset_variables.sh)
-* [check_execution__检查执行结果](preset/check_execution.sh)
-* [quotation_marks__引号操作](preset/quotation_marks.sh)
-* [paraphrase__转义字符](preset/paraphrase.sh)
-* [command_sequence__命令序列](preset/command_sequence.sh)
+-   [x] [preset_variables__预设变量](preset/preset_variables.sh)
+-   [x] [check_execution__检查执行结果](preset/check_execution.sh)
+-   [ ] [quotation_marks__引号操作](preset/quotation_marks.sh)
+-   [ ] [paraphrase__转义字符](preset/paraphrase.sh)
+-   [x] [command_sequence__命令序列](preset/command_sequence.sh)
 
 -------------
 
 ## [test_file](test_file)
 
-* [file_status__文件状态](test_file/file_status.sh)
+-   [x] [file_status__文件状态](test_file/file_status.sh)
 
 ---------
 
 ## [test_string](test_string)
 
-* [compare_strings__比较字符串](test_string/compare_strings.sh)
+-   [x] [compare_strings__比较字符串](test_string/compare_strings.sh)
 
 ---------
 
 ## [test_num](test_num)
 
-* [compare_num__比较数](test_num/compare_num.sh)
+-   [x] [compare_num__比较数](test_num/compare_num.sh)
 
 ---------
 
 ## [if](if)
 
-* [if_then__判断](if/if_then.sh)
-* [if_else__判断文件是否存在](if/if_else.sh)
+-   [x] [if_then__判断](if/if_then.sh)
+-   [x] [if_else__判断文件是否存在](if/if_else.sh)
 
 ---------
 
 ## [case](case)
 
-* [date__选择日期](case/date.sh)
-* [choice__选择对错](case/choice.sh)
+-   [x] [date__选择日期](case/date.sh)
+-   [x] [choice__选择对错](case/choice.sh)
 
 ---------
 
 ## [for](for)
 
-* [file__文件属性](for/file.sh)
-* [sum__循环求和](for/sum.sh)
-* [sum2__循环求和](for/sum2.sh)
+-   [ ] [file_attributes__文件属性](for/file_attributes.sh)
+-   [x] [sum__循环求和](for/sum.sh)
+-   [x] [sum2__循环求和](for/sum2.sh)
 
 ---------
 
 ## [while](while)
 
-* [while__循环](while/while.sh)
+-   [x] [while__循环](while/while.sh)
 
 ---------
 
 ## [until](until)
 
-* [until__反循环](until/until.sh)
+-   [x] [until__反循环](until/until.sh)
 
 ---------
 
 ## [function](function)
 
-* [fun__调用](function/fun.sh)
-* [add__调用函数](function/add.sh)
-* [test__调用add](function/test.sh)
+-   [x] [fun__调用](function/fun.sh)
+-   [x] [add__调用函数](function/add.sh)
+-   [x] [test__调用add](function/test.sh)
