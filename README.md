@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-07-27 19:11:10
- * @LastEditTime: 2020-07-30 17:55:05
+ * @LastEditTime: 2020-07-30 18:08:56
  * @FilePath: \shell\README.md
  * @Gitee: [https://gitee.com/cpu_code](https://gitee.com/cpu_code)
  * @Github: [https://github.com/CPU-Code](https://github.com/CPU-Code)
@@ -112,3 +112,4 @@
 -   [x] [fun__调用](function/fun.sh)
 -   [x] [add__调用函数](function/add.sh)
 -   [x] [test__调用add](function/test.sh)
+-   [x] [function__调用](function/function.sh)
