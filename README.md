@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-07-27 19:11:10
- * @LastEditTime: 2020-07-30 17:52:56
+ * @LastEditTime: 2020-07-30 17:55:05
  * @FilePath: \shell\README.md
  * @Gitee: [https://gitee.com/cpu_code](https://gitee.com/cpu_code)
  * @Github: [https://github.com/CPU-Code](https://github.com/CPU-Code)
@@ -71,6 +71,11 @@
 
 -   [x] [if_then__判断](if/if_then.sh)
 -   [x] [if_else__判断文件是否存在](if/if_else.sh)
+-   [x] [checkdir__判断是否为目录](if/checkdir.sh)
+-   [x] [checkdir_read__读是否为目录](if/checkdir_read.sh)
+-   [x] [password__判断密码](if/password.sh)
+
+
 
 ---------
 
