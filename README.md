@@ -1,13 +1,14 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-07-27 19:11:10
- * @LastEditTime: 2020-07-29 19:00:25
+ * @LastEditTime: 2020-07-30 17:52:56
  * @FilePath: \shell\README.md
- * @Gitee: https://gitee.com/cpu_code
- * @Github: https://github.com/CPU-Code
- * @CSDN: https://blog.csdn.net/qq_44226094
- * @Gitbook: https://923992029.gitbook.io/cpucode/
+ * @Gitee: [https://gitee.com/cpu_code](https://gitee.com/cpu_code)
+ * @Github: [https://github.com/CPU-Code](https://github.com/CPU-Code)
+ * @CSDN: [https://blog.csdn.net/qq_44226094](https://blog.csdn.net/qq_44226094)
+ * @Gitbook: [https://923992029.gitbook.io/cpucode/](https://923992029.gitbook.io/cpucode/)
 --> 
+
 
 # shell
 
@@ -91,6 +92,7 @@
 ## [while](while)
 
 -   [x] [while__循环](while/while.sh)
+-   [x] [passwordwhile__循环输入密码](while/passwordwhile.sh)
 
 ---------
 
