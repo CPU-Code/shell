@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-07-27 19:11:10
- * @LastEditTime: 2020-07-30 18:08:56
+ * @LastEditTime: 2020-07-30 18:10:40
  * @FilePath: \shell\README.md
  * @Gitee: [https://gitee.com/cpu_code](https://gitee.com/cpu_code)
  * @Github: [https://github.com/CPU-Code](https://github.com/CPU-Code)
@@ -91,6 +91,8 @@
 -   [ ] [file_attributes__文件属性](for/file_attributes.sh)
 -   [x] [sum__循环求和](for/sum.sh)
 -   [x] [sum2__循环求和](for/sum2.sh)
+-   [x] [for__循环求和](for/for.sh)
+-   [ ] [checkdirall__检查是否目录](for/checkdirall.sh)
 
 ---------
 
