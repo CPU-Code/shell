@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-07-27 19:11:10
- * @LastEditTime: 2020-07-30 18:11:36
+ * @LastEditTime: 2020-07-30 18:13:38
  * @FilePath: \shell\README.md
  * @Gitee: [https://gitee.com/cpu_code](https://gitee.com/cpu_code)
  * @Github: [https://github.com/CPU-Code](https://github.com/CPU-Code)
@@ -23,9 +23,11 @@
 
 ## [first](first)
 
-
 -   [x] [echo__输出信息](first/echo.sh)
 -   [x] [echo_parameter__输出参数](first/echo_parameter.sh)
+-   [x] [declare__数字差异](first/declare.sh)
+-   [x] [firstscript__环境参数输出](first/firstscript.sh)
+-   [x] [read__读数](first/read.sh)
 
 -----------------
 
