@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-07-27 19:11:10
- * @LastEditTime: 2020-07-30 18:10:40
+ * @LastEditTime: 2020-07-30 18:11:36
  * @FilePath: \shell\README.md
  * @Gitee: [https://gitee.com/cpu_code](https://gitee.com/cpu_code)
  * @Github: [https://github.com/CPU-Code](https://github.com/CPU-Code)
@@ -83,6 +83,7 @@
 
 -   [x] [date__选择日期](case/date.sh)
 -   [x] [choice__选择对错](case/choice.sh)
+-   [x] [case__选择数](case/case.sh)
 
 ---------
 
