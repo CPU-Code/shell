@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-07-27 19:11:10
- * @LastEditTime: 2020-07-30 18:13:38
+ * @LastEditTime: 2020-07-30 19:44:46
  * @FilePath: \shell\README.md
  * @Gitee: [https://gitee.com/cpu_code](https://gitee.com/cpu_code)
  * @Github: [https://github.com/CPU-Code](https://github.com/CPU-Code)
@@ -35,8 +35,8 @@
 
 -   [x] [num__变量](variable/num.sh)
 -   [x] [readonly__只读变量](variable/readonly.sh)
--   [ ] [export__环境变量](variable/export.sh)
--   [ ] [variable_exists__变量是否存在](variable/variable_exists.sh)
+-   [x] [export__环境变量](variable/export.sh)
+-   [x] [variable_exists__变量是否存在](variable/variable_exists.sh)
 -   [x] [string__字符串操作](variable/string.sh)
 
 ---------------------
@@ -45,8 +45,8 @@
 
 -   [x] [preset_variables__预设变量](preset/preset_variables.sh)
 -   [x] [check_execution__检查执行结果](preset/check_execution.sh)
--   [ ] [quotation_marks__引号操作](preset/quotation_marks.sh)
--   [ ] [paraphrase__转义字符](preset/paraphrase.sh)
+-   [x] [quotation_marks__引号操作](preset/quotation_marks.sh)
+-   [x] [paraphrase__转义字符](preset/paraphrase.sh)
 -   [x] [command_sequence__命令序列](preset/command_sequence.sh)
 
 -------------
@@ -78,7 +78,6 @@
 -   [x] [password__判断密码](if/password.sh)
 
 
-
 ---------
 
 ## [case](case)
@@ -91,11 +90,11 @@
 
 ## [for](for)
 
--   [ ] [file_attributes__文件属性](for/file_attributes.sh)
+-   [x] [file_attributes__文件属性](for/file_attributes.sh)
 -   [x] [sum__循环求和](for/sum.sh)
 -   [x] [sum2__循环求和](for/sum2.sh)
 -   [x] [for__循环求和](for/for.sh)
--   [ ] [checkdirall__检查是否目录](for/checkdirall.sh)
+-   [x] [checkdirall__检查是否目录](for/checkdirall.sh)
 
 ---------
 
