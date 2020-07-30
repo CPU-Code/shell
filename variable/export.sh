@@ -1,7 +1,7 @@
 ###
  # @Author: cpu_code
  # @Date: 2020-07-27 21:22:43
- # @LastEditTime: 2020-07-27 21:23:44
+ # @LastEditTime: 2020-07-30 19:24:44
  # @FilePath: \shell\variable\export.sh
  # @Gitee: https://gitee.com/cpu_code
  # @Github: https://github.com/CPU-Code
@@ -15,3 +15,7 @@ export MYDATA=300
 
 echo MYDATA
 echo $MYDATA
+
+# cpucode@ubuntu:~/cpucode/code/shell$ ./export.sh 
+# MYDATA
+# 300
