@@ -1,7 +1,7 @@
 ###
  # @Author: cpu_code
  # @Date: 2020-07-28 11:55:58
- # @LastEditTime: 2020-07-28 11:58:16
+ # @LastEditTime: 2020-07-30 19:44:29
  # @FilePath: \shell\preset\paraphrase.sh
  # @Gitee: https://gitee.com/cpu_code
  # @Github: https://github.com/CPU-Code
@@ -19,7 +19,7 @@ echo "str1 = $str1"     #str1 = cpucode
 echo 'str1 = $str1'     # str1 = $str1
 
 # '' 将''中间的表达式当成命令执行
-echo "日期 = 'date'"
+echo "日期 = `date`"
 
 #'clear'
 
@@ -29,10 +29,11 @@ echo "cpu\ncode"
 
 echo -e "cpu\ncode"
 
-# cpucode@ubuntu:~/code$ ./paraphrase.sh 
+# cpucode@ubuntu:~/cpucode/code/shell$ ./paraphrase.sh 
 # str1 = cpucode
 # str1 = $str1
-# 日期 = 'date'
+# 日期 = 2020年 07月 30日 星期四 04:43:22 PDT
 # cpu\ncode
 # cpu
 # code
+
