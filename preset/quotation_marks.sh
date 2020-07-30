@@ -1,7 +1,7 @@
 ###
  # @Author: cpu_code
  # @Date: 2020-07-28 11:39:05
- # @LastEditTime: 2020-07-28 11:48:44
+ # @LastEditTime: 2020-07-30 19:31:38
  # @FilePath: \shell\preset\quotation_marks.sh
  # @Gitee: https://gitee.com/cpu_code
  # @Github: https://github.com/CPU-Code
@@ -19,13 +19,15 @@ echo "str1 = $str1"     #str1 = cpucode
 echo 'str1 = $str1'     # str1 = $str1
 
 # '' 将''中间的表达式当成命令执行
-echo "日期 = 'date'"
+echo "日期 = `date`"
 
 #'clear'
 
-# cpucode@ubuntu:~/code$ ./quotation_marks.sh 
+# cpucode@ubuntu:~/cpucode/code/shell$ ./quotation_marks.sh 
 # str1 = cpucode
 # str1 = $str1
-# 日期='date'
-# cpucode@ubuntu:~/code$ date
-# 2020年 07月 28日 星期二 11:48:28 CST
+# 日期 = 2020年 07月 30日 星期四 04:30:01 PDT
+# cpucode@ubuntu:~/cpucode/code/shell$ date
+# 2020年 07月 30日 星期四 04:30:46 PDT
+
+
