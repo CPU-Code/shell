@@ -1,7 +1,7 @@
 ###
  # @Author: cpu_code
  # @Date: 2020-07-30 12:12:24
- # @LastEditTime: 2020-07-30 12:12:38
+ # @LastEditTime: 2020-07-30 19:48:16
  # @FilePath: \shell\for\checkdirall.sh
  # @Gitee: [https://gitee.com/cpu_code](https://gitee.com/cpu_code)
  # @Github: [https://github.com/CPU-Code](https://github.com/CPU-Code)
@@ -18,3 +18,5 @@ do
 	fi
 done 
 
+# cpucode@ubuntu:~/cpucode/code/shell$ ./checkdirall.sh 
+# test is a dirctory
